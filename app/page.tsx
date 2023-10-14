@@ -9,6 +9,11 @@ export default function Home() {
           This is the best app for tracking your mood through out your life. All
           you have to do is be honesy
         </p>
+        <div>
+          <button className="bg-blue-400 px-4 py-4 rounded-lg text-xl">
+            Get Started
+          </button>
+        </div>
       </div>
     </div>
   );
